@@ -1,6 +1,4 @@
 # DDIA
-ddia读书笔记
-
-我真好看
+ddia
 
 中文：https://vonng.gitbooks.io/ddia-cn/content/
